@@ -7,6 +7,13 @@
 - matplotlib 3.2.1
 - tensorflow 2.2.0
 - sklearn 0.23.1
+- keras 2.3.1
+- opencv-python 4.2.0
+- Pillow 7.1.2
+
+```sh
+pip install jupyterlab matplotlib tensorflow sklearn keras opencv-python Pillow
+```
 
 ## 环境启动方法
 ```sh
